@@ -98,7 +98,7 @@ This portion of the tutorial closely follows: https://dev.to/\_lunacy\_/private-
 
         sudo service ssh restart
 7. Test out that the connection works. First, get the internal ip of the raspberry pi by running *ifconfig* in the terminal. 
-![ifconfig output](/images/interal_ip.JPG)
+![ifconfig output](/images/internal_ip.JPG)
 8.  Then, from the gogs folder run 
 
         ./gogs web
